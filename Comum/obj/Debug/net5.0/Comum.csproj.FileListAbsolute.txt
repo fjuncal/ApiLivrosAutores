@@ -1,0 +1,15 @@
+C:\Users\juncal\RiderProjects\ApiLivros\Comum\bin\Debug\net5.0\Comum.deps.json
+C:\Users\juncal\RiderProjects\ApiLivros\Comum\bin\Debug\net5.0\Comum.dll
+C:\Users\juncal\RiderProjects\ApiLivros\Comum\bin\Debug\net5.0\ref\Comum.dll
+C:\Users\juncal\RiderProjects\ApiLivros\Comum\bin\Debug\net5.0\Comum.pdb
+C:\Users\juncal\RiderProjects\ApiLivros\Comum\obj\Debug\net5.0\Comum.csprojAssemblyReference.cache
+C:\Users\juncal\RiderProjects\ApiLivros\Comum\obj\Debug\net5.0\Comum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\juncal\RiderProjects\ApiLivros\Comum\obj\Debug\net5.0\Comum.AssemblyInfoInputs.cache
+C:\Users\juncal\RiderProjects\ApiLivros\Comum\obj\Debug\net5.0\Comum.AssemblyInfo.cs
+C:\Users\juncal\RiderProjects\ApiLivros\Comum\obj\Debug\net5.0\Comum.csproj.CoreCompileInputs.cache
+C:\Users\juncal\RiderProjects\ApiLivros\Comum\obj\Debug\net5.0\Comum.dll
+C:\Users\juncal\RiderProjects\ApiLivros\Comum\obj\Debug\net5.0\ref\Comum.dll
+C:\Users\juncal\RiderProjects\ApiLivros\Comum\obj\Debug\net5.0\Comum.pdb
+C:\Users\juncal\RiderProjects\ApiLivros\Comum\bin\Debug\net5.0\Comum.runtimeconfig.json
+C:\Users\juncal\RiderProjects\ApiLivros\Comum\bin\Debug\net5.0\Comum.runtimeconfig.dev.json
+C:\Users\juncal\RiderProjects\ApiLivros\Comum\obj\Debug\net5.0\Comum.genruntimeconfig.cache
